@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img alt="Delivery" src="https://user-images.githubusercontent.com/20192309/95088742-b5b39280-06f9-11eb-8d03-bd33177481d4.png" width="100%" />
+    <img alt="Delivery" src="https://user-images.githubusercontent.com/20192309/116337854-2e229380-a7b1-11eb-9dc8-e719d619731a.png" width="100%" />
 </h1>
 
-## Delivery
+## Estabelecimento
 
 # :rocket: Back-End
 
@@ -16,7 +16,7 @@ Aqui nós iremos criar o banco de dados e salvar os registros nas mesmas de acor
 
 ## Versão e instalação
 
-<a href="https://nodejs.org/pt/"> NodeJS 12.18.4 LTS</a> <br/>
+<a href="https://nodejs.org/pt/"> NodeJS 14.15.1 LTS</a> <br/>
 
 ## Ou pode instalar o NVM no linux que você pode trabalhar com qualquer versão do node.
 
@@ -106,7 +106,7 @@ yarn dev:server
 
 ## Usando a API
 
-Após criar uma empresa, a mesma deve ser aprovada para acessar o sistema, a rota GET é: http://localhost:3333/empresa/usuario/idEmpresa assim a empresa terá acesso ao sistema, ira retornar os dados da empresa.
+Após criar o usuário você terá acesso podendo realizar o login na aplicação
 
 <br />
 Feito com ♥ by Kayza :wave:
